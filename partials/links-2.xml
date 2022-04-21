@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<links>
+
+    <link categoria="amigos">
+        <descricao>Alerta Virtual</descricao>
+        <url>https://www.alertavirtual.com.br/</url>
+    </link>
+
+    <link categoria="amigos">
+        <descricao>Danyllo lisboa</descricao>
+        <url>https://www.youtube.com/channel/UCYihRXTYUBK-14bc9izai9Q/videos</url>
+    </link>
+
+    <link categoria="amigos">
+        <descricao>Igreja do Altíssimo Goiânia</descricao>
+        <url>https://www.youtube.com/c/IgrejadoAlt%C3%ADssimoGoi%C3%A2nia/videos</url>
+    </link>
+
+    <link categoria="amigos">
+        <descricao>Igreja Nova Vida Goiânia</descricao>
+        <url>https://www.youtube.com/c/NovaVidaGoi%C3%A2nia/videos</url>
+    </link>
+
+    <link categoria="amigos">
+        <descricao>Kildere Whickchan</descricao>
+        <url>http://kildere.com.br/</url>
+    </link>
+
+    <link categoria="amigos">
+        <descricao>M Jailton</descricao>
+        <url>https://mjailton.com.br/</url>
+    </link>
+
+    <link categoria="amigos">
+        <descricao>Objetos Antigos</descricao>
+        <url>http://www.objetosantigos.com.br/</url>
+    </link>
+
+    <link categoria="amigos">
+        <descricao>VS Studio</descricao>
+        <url>https://www.youtube.com/channel/UCE9wDDTCOGtxO1gTtJycuqQ/videos</url>
+    </link>
+    <!--  
+    <link categoria="amigos">
+        <descricao>Tallita Vicente</descricao>
+        <url>https://www.youtube.com/c/TallitaVicente/videos</url>
+    </link>
+    -->
+    
+</links>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<links>
+
+    <link categoria="cursos">
+        <descricao>Bóson Treinamentos</descricao>
+        <url>https://www.youtube.com/user/bosontreinamentos/playlists</url>
+    </link>
+
+    <link categoria="cursos">
+        <descricao>Coursera</descricao>
+        <url>https://pt.coursera.org/</url>
+    </link>
+
+    <link categoria="youtube">
+        <descricao>Curso em Vídeo</descricao>
+        <url>https://www.youtube.com/user/cursosemvideo</url>
+    </link>
+
+    <link categoria="cursos">
+        <descricao>edX</descricao>
+        <url>https://www.edx.org/</url>
+    </link>
+    
+    <link categoria="youtube">
+        <descricao>Escola Virtual de Governo</descricao>
+        <url>https://www.escolavirtual.gov.br/catalogo</url>
+    </link>
+    
+    <link categoria="youtube">
+        <descricao>Fundação Bradesco - Escola Virtual</descricao>
+        <url>https://www.ev.org.br/</url>
+    </link>
+
+    <link categoria="cursos">
+        <descricao>Senai</descricao>
+        <url>https://senaigoias.com.br/eadcursos/</url>
+    </link>
+
+    <link categoria="cursos">
+        <descricao>Udemy</descricao>
+        <url>https://www.udemy.com/</url>
+    </link>
+
+</links>

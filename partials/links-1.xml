@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<links>
+
+    <link categoria="tecnologia">
+        <descricao>App Ideas</descricao>
+        <url>https://github.com/florinpop17/app-ideas</url>
+    </link>
+
+    <link categoria="tecnologia">
+        <descricao>Animate css</descricao>
+        <url>https://animate.style/</url>
+    </link>
+
+    <link categoria="tecnologia">
+        <descricao>Animate On Scroll Library</descricao>
+        <url>https://michalsnik.github.io/aos/</url>
+    </link>
+
+    <link categoria="tecnologia">
+        <descricao>App Diagrams</descricao>
+        <url>https://app.diagrams.net/</url>
+    </link>
+
+    <link categoria="tecnologia">
+        <descricao>AV-Test</descricao>
+        <url>https://www.av-test.org/en/</url>
+    </link>
+
+    <link categoria="notícias">
+        <descricao>BBC Brasil</descricao>
+        <url>https://www.bbc.com/portuguese</url>
+    </link>
+
+    <link categoria="notícias">
+        <descricao>Bíblia Online</descricao>
+        <url>https://www.bibliaonline.com.br/</url>
+    </link>
+
+    <link categoria="design">
+        <descricao>Behance</descricao>
+        <url>https://www.behance.net/</url>
+    </link>
+
+    <link categoria="webdesign">
+        <descricao>CERT</descricao>
+        <url>https://www.cert.br/</url>
+    </link>
+
+    <link categoria="webdesign">
+        <descricao>Codrops</descricao>
+        <url>http://tympanus.net/codrops/</url>
+    </link>
+
+    <link categoria="design">
+        <descricao>Coolors</descricao>
+        <url>https://coolors.co/</url>
+    </link>
+
+    <link categoria="webdesign">
+        <descricao>CSS Tricks</descricao>
+        <url>http://css-tricks.com/</url>
+    </link>
+
+    <link categoria="webdesign">
+        <descricao>CSS Gradient</descricao>
+        <url>https://cssgradient.io/</url>
+    </link>
+
+    <link categoria="webdesign">
+        <descricao>Comandos Windows</descricao>
+        <url>https://docs.microsoft.com/pt-br/windows-server/administration/windows-commands/chkdsk</url>
+    </link>
+
+    <link categoria="webdesign">
+        <descricao>Developer Drive</descricao>
+        <url>http://www.developerdrive.com/</url>
+    </link>
+    
+    <link categoria="design">
+        <descricao>Designers List</descricao>
+        <url>http://www.designerslist.info/</url>
+    </link>
+    
+    <link categoria="design">
+        <descricao>Docs Microsoft</descricao>
+        <url>https://docs.microsoft.com/pt-br/</url>
+    </link>
+
+    <link categoria="design">
+        <descricao>Flat Icon</descricao>
+        <url>https://www.flaticon.com/</url>
+    </link>
+
+    <link categoria="design">
+        <descricao>Freepik</descricao>
+        <url>https://br.freepik.com/</url>
+    </link>
+
+    <link categoria="design">
+        <descricao>Fosshub</descricao>
+        <url>https://www.fosshub.com/</url>
+    </link>
+
+    <link categoria="notícias">
+        <descricao>Google Agenda</descricao>
+        <url>https://calendar.google.com/calendar/</url>
+    </link>
+
+    <link categoria="notícias">
+        <descricao>Google Keep</descricao>
+        <url>https://keep.google.com/</url>
+    </link>
+
+
+    <link categoria="notícias">
+        <descricao>Hacker rank</descricao>
+        <url>https://www.hackerrank.com/</url>
+    </link>
+    
+    <link categoria="notícias">
+        <descricao>HTML5 UP</descricao>
+        <url>https://html5up.net/</url>
+    </link>
+    
+    <link categoria="tecnologia">
+        <descricao>Kanban Flow</descricao>
+        <url>https://kanbanflow.com/</url>
+    </link>
+
+    <link categoria="notícias">
+        <descricao>Mega Curioso</descricao>
+        <url>http://www.megacurioso.com.br/</url>
+    </link>
+
+    <link categoria="tecnologia">
+        <descricao>MDN</descricao>
+        <url>https://developer.mozilla.org/pt-BR/</url>
+    </link>
+
+    <link categoria="tecnologia">
+        <descricao>Nic</descricao>
+        <url>https://nic.br/</url>
+    </link>
+
+    <link categoria="tecnologia">
+        <descricao>Notion</descricao>
+        <url>https://www.notion.so/</url>
+    </link>
+
+    <link categoria="imagens">
+        <descricao>Pixabay</descricao>
+        <url>https://pixabay.com/pt/</url>
+    </link>
+
+    <link categoria="notícias">
+        <descricao>The Atlantic Photo</descricao>
+        <url>https://www.theatlantic.com/photo/</url>
+    </link>
+
+    <link categoria="webdesign">
+        <descricao>Tableless</descricao>
+        <url>http://tableless.com.br/</url>
+    </link>
+
+    <link categoria="vida">
+        <descricao>Vida Organizada</descricao>
+        <url>http://vidaorganizada.com/</url>
+    </link>
+
+    <link categoria="vida">
+        <descricao>Vue JS</descricao>
+        <url>https://br.vuejs.org/index.html</url>
+    </link>
+
+    <link categoria="vida">
+        <descricao>W3schools</descricao>
+        <url>https://www.w3schools.com/</url>
+    </link>
+
+    <link categoria="youtube">
+        <descricao>freeCodeCamp</descricao>
+        <url>https://www.youtube.com/c/Freecodecamp/videos</url>
+    </link>
+
+    <link categoria="youtube">
+        <descricao>Wallpaperhub</descricao>
+        <url>https://wallpaperhub.app/</url>
+    </link>
+
+    <link categoria="youtube">
+        <descricao>Wikiquote</descricao>
+        <url>https://pt.wikiquote.org/wiki/P%C3%A1gina_principal</url>
+    </link>
+
+    <link categoria="youtube">
+        <descricao>Windows 10 Sophia Script</descricao>
+        <url>https://github.com/farag2/Windows-10-Sophia-Script</url>
+    </link>
+
+
+</links>

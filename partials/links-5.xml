@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<links>
+
+    <link categoria="loja">
+        <descricao>Amazon</descricao>
+        <url>https://www.amazon.com.br/</url>
+    </link>
+
+    <link categoria="loja">
+        <descricao>Americanas</descricao>
+        <url>https://www.americanas.com.br/</url>
+    </link>
+
+    <link categoria="loja">
+        <descricao>Boletando</descricao>
+        <url>https://boletando.com/</url>
+    </link>
+
+    <link categoria="loja">
+        <descricao>Buscapé</descricao>
+        <url>https://www.buscape.com.br/</url>
+    </link>
+   
+    <link categoria="loja">
+        <descricao>Canal Tech</descricao>
+        <url>https://ofertas.canaltech.com.br/</url>
+    </link>
+
+    <link categoria="loja">
+        <descricao>Carrefour</descricao>
+        <url>https://www.carrefour.com.br/</url>
+    </link>
+
+    <link categoria="loja">
+        <descricao>Casas Bahia</descricao>
+        <url>https://www.casasbahia.com.br/</url>
+    </link>
+
+    <link categoria="loja">
+        <descricao>Centauro</descricao>
+        <url>https://www.centauro.com.br/</url>
+    </link>
+ 
+    <link categoria="loja">
+        <descricao>Dell</descricao>
+        <url>https://www.dell.com/pt-br/shop/accessories</url>
+    </link>
+
+    <link categoria="loja">
+        <descricao>Extra</descricao>
+        <url>https://www.extra.com.br/</url>
+    </link>
+
+    <link categoria="loja">
+        <descricao>Harmonia Musical</descricao>
+        <url>https://www.harmoniamusical.com.br/</url>
+    </link>
+
+    <link categoria="loja">
+        <descricao>Kabum</descricao>
+        <url>https://www.kabum.com.br/</url>
+    </link>
+
+    <link categoria="loja">
+        <descricao>Kalunga</descricao>
+        <url>https://www.kalunga.com.br/</url>
+    </link>
+
+    <link categoria="loja">
+        <descricao>Magazine Luiza</descricao>
+        <url>https://www.magazineluiza.com.br/</url>
+    </link>
+
+    <link categoria="loja">
+        <descricao>Mercado Livre</descricao>
+        <url>https://www.mercadolivre.com.br/</url>
+    </link>
+
+    <link categoria="loja">
+        <descricao>Netshoes</descricao>
+        <url>https://www.netshoes.com.br/</url>
+    </link>
+
+    <link categoria="loja">
+        <descricao>Novo Mundo</descricao>
+        <url>https://www.novomundo.com.br/</url>
+    </link>
+
+    <link categoria="loja">
+        <descricao>Ponto Frio</descricao>
+        <url>https://www.pontofrio.com.br/</url>
+    </link>
+
+    <link categoria="loja">
+        <descricao>Saraiva</descricao>
+        <url>https://www.saraiva.com.br/</url>
+    </link>
+
+    <link categoria="loja">
+        <descricao>Submarino</descricao>
+        <url>https://www.submarino.com.br/</url>
+    </link>
+
+    <link categoria="loja">
+        <descricao>Zoom</descricao>
+        <url>https://www.zoom.com.br/</url>
+    </link>
+
+    <link categoria="loja">
+        <descricao>TopCelCN - Xiaomi</descricao>
+        <url>https://www.instagram.com/topcelcn/</url>
+    </link>
+
+
+
+</links>
